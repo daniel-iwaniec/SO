@@ -1,3 +1,4 @@
+{Zadanie 7 - usuwanie pliku}
 program so11;
 
 uses dos;

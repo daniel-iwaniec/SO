@@ -1,4 +1,5 @@
 program so11;
+
 uses dos;
 
 var
@@ -26,5 +27,3 @@ begin
 
  readln;
 end.
-
-
